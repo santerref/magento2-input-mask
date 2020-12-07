@@ -1,5 +1,5 @@
 {
-    "name": "piszczek/magento2-inputmask",
+    "name": "santerref/magento2-inputmask",
     "description": "Add inputMask parameter to abstract input. Based on IMask.",
     "tags": ["IMask", "InputMask", "Magento2", "Magento Module"],
     "license": "proprietary",
@@ -7,6 +7,10 @@
         {
             "email": "andpis58@gmail.com",
             "name": "Andrzej Piszczek"
+        },
+        {
+            "email": "francis.santerre@gmail.com",
+            "name": "Francis Santerre"
         }
     ],
     "require": {},
